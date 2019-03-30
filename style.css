@@ -1,14 +1,25 @@
+body {
+        background-color: black;
+}
 header{
      text-align: center;
      font-size: 25px;
      padding:20px;
 }
 
+h1 {
+     font-size: 120px;
+     color: White;
+}
+h4 {
+     color: white;
+}
+
 .pokemon{
-     background-color: #ffa;
+     background-color: transparent;
      text-align: center;
      font-size: 20px;
-     color: #495159;
+     color: Blue;
      font-weight: bold;
      
      padding: 20px 5px;
